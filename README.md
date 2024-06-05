@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Marfor-Dalligna 😁
+## Olá! Seja muito bem-vindo(a) ao perfil do Marfor-Dalligna 😁
 
  <div>
    <a href="https://github.com/Marfor-Dalligna">
@@ -10,13 +10,15 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
- 
-<br>
- 
-### Pra entrar em contato comigo me chama nas redes abaixo!
+
+## 
+
+### Para entrar em contato comigo me chame nas redes abaixo!
  
 <div>  
   <a href = "https://thomas_dalligna@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thomas-dall-igna-525558230" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
